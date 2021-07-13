@@ -1,0 +1,10 @@
+data/
+final_labels/
+final_test_images/
+final_train_images/
+final_valid_images/
+.ipynb_checkpoints
+
+trainer/aug_sample_images
+trainer/effdet_checkpoints
+trainer/validation_image_results
