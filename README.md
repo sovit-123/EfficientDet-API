@@ -2,6 +2,13 @@
 
 
 
+## Current Supported PyTorch Version
+
+* PyTorch 1.8.0, PyTorch 1.8.1, PyTorch 1.9.0.
+* Older versions may be supported, not thoroughly tested yet.
+
+
+
 ## Image / Video Credits and Attributions
 
 * `data/inference_data/video_1.mp4`: Video by <a href="https://pixabay.com/users/airvideopl-1994049/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=33014">Foto &amp; Film Air Video pl</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=33014">Pixabay</a>.

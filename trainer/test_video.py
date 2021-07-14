@@ -93,7 +93,7 @@ def draw_bboxes(image, outputs, w, h):
 
     orig_h, orig_w = image.shape[0], image.shape[1]
 
-    scores = list(outputs[0][:, 4])
+    scores = list(outputs[0][:, 4].cpu())
     # threshold_indices = [scores.index(i) for i in scores if i > 0.2]
     labels = list(outputs[0][:, 5])
     

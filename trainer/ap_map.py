@@ -1,5 +1,5 @@
 """
-Credit: https://github.com/Cartucho/mAP/blob/master/main.py
+Code credit: https://github.com/Cartucho/mAP/blob/master/main.py
 """
 
 import glob
