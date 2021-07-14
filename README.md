@@ -5,7 +5,7 @@
 ## Current Supported PyTorch Version
 
 * PyTorch 1.8.0, PyTorch 1.8.1, PyTorch 1.9.0.
-* Older versions may be supported, not thoroughly tested yet.
+* Older versions may be supported, not thoroughly tested yet
 
 
 
